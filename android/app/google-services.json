@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930020851791",
+    "project_id": "all-rounder-tv",
+    "storage_bucket": "all-rounder-tv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930020851791:android:d567bf9cf0972f16eaea3a",
+        "android_client_info": {
+          "package_name": "com.prem.allrounder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930020851791-5mh8ib5de93nppul752lhu36acqe2tjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnye7tNPk8fOwTPqRPYST9wPjTFFYZwos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930020851791-5mh8ib5de93nppul752lhu36acqe2tjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
